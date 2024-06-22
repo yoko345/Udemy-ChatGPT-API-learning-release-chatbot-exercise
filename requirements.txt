@@ -1,2 +1,2 @@
-streamlit==1.36.0
-openai==4.0.0
+streamlit==1.30.0
+openai==3.0.0
